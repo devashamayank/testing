@@ -1,0 +1,100 @@
+What Is Cybersecurity?
+Image with selectable areas. Select each button to show more information.
+Cybersecurity is the ongoing effort to protect individuals, organizations and governments from digital attacks
+ by protecting networked systems and data from unauthorized use or harm.
+Personal
+On a personal level, you need to safeguard your identity, your data, and your computing devices.
+
+Organizational
+At an organizational level, it is everyone’s responsibility to protect the organization’s reputation, data and customers.
+
+Government
+As more digital information is being gathered and shared, its protection becomes even
+ more vital at the government level, where national security, economic stability and the safety and wellbeing of citizens are at stake.
+
+1.1.2 Protecting Your Personal Data
+Personal data is any information that can be used to identify you, 
+and it can exist both offline and online.
+
+OFFLINE:-
+Your offline- identity is the real-life persona that you present on a daily basis at home, at school or at work. As a result, family and friends know details about your personal life, including your full name, age and address.
+
+It’s important not to overlook the importance of securing your offline identity. Identity thieves can easily steal your data from right under your nose when you’re not looking!
+
+Online identity
+Your online -identity is not just a name. It’s who you are and how you present yourself to others online. It includes the username or alias you use for your online accounts, as well as the social identity you establish and portray on online communities and websites.
+
+You should take care to limit the amount of personal information you reveal through your online identity. 
+
+Your Data
+Image with selectable areas. Select each button to show more information.
+Personal data describes any information about you, including your name, 
+social security number, driver license number, date and place of birth, your mother’s maiden name, and even pictures or messages that you exchange with family and friends.
+
+Cybercriminals can use this sensitive information to identify and impersonate you, 
+infringing on your privacy and potentially causing serious damage to your reputation.
+
+Medical records
+Every time you visit the doctor, personal information regarding your physical and mental health and wellbeing is added to your electronic health records (EHRs). Since the majority of these records are saved online, you need to be aware of the medical information that you share.
+
+And these records go beyond the bounds of the doctor’s office. For example, many fitness trackers collect large amounts of clinical data such as your heart rate, blood pressure and blood sugar levels, which is transferred, stored and displayed via the cloud. Therefore, you should consider this data to be part of your medical records.
+
+Education records
+Educational records contain information about your academic qualifications and achievements. However, these records may also include your contact information, attendance records, disciplinary reports, health and immunization records as well as any special education records including individualized education programs (IEPs).
+
+Employment and financial records
+Employment data can be valuable to hackers if they can gather information on your past employment, or even your current performance reviews.
+
+Your financial records may include information about your income and expenditure. 
+Your tax records may include paychecks, credit card statements, your credit rating and your bank account details. All of this data, if not safeguarded properly, can compromise your privacy and enable cybercriminals to use your information for their own gain.
+
+1.2.1 Types of Organizational Data
+1.2.1.1 Traditional Data
+Traditional data is typically generated and maintained by all organizations, big and small. It includes the following:
+
+Transactional data such as details relating to buying and selling, production activities and basic organizational operations such as any information used to make employment decisions.
+Intellectual property such as patents, trademarks and new product plans, which allows an organization to gain economic advantage over its competitors. This information is often considered a trade secret and losing it could prove disastrous for the future of a company.
+Financial data such as income statements, balance sheets and cash flow statements, which provide insight into the health of a company.
+
+
+1.2.1.2 Internet of Things (IoT) and Big Data
+IoT is a large network of physical objects, such as sensors, software and other equipment. All of these ‘things’ are connected to the Internet, with the ability to collect and share data. And given that storage options are expanding through the cloud and virtualization, it’s no surprise that the emergence of IoT has led to an exponential growth in data, creating a new area of interest in technology and business called 'Big Data.'
+
+1.2.2 The Cube
+The McCumber Cube is a model framework created by John McCumber in 1991 to help organizations establish and evaluate information security initiatives by considering all of the related factors that impact them. This security model has three dimensions:
+
+The foundational principles for protecting information systems.
+The protection of information in each of its possible states.
+The security measures used to protect data.
+Scroll down to find out more about the different elements of each dimension.
+
+
+Confidentiality is a set of rules that prevents sensitive information from being disclosed to unauthorized people, resources and processes. Methods to ensure confidentiality include data encryption, identity proofing and two factor authentication.
+
+Integrity ensures that system information or processes are protected from intentional or accidental modification. One way to ensure integrity is to use a hash function or checksum.
+
+Availability means that authorized users are able to access systems and data when and where needed and those that do not meet established conditions, are not. This can be achieved by maintaining equipment, performing hardware repairs, keeping operating systems and software up to date, and creating backups.
+
+Processing refers to data that is being used to perform an operation such as updating a database record (data in process).
+
+Storage refers to data stored in memory or on a permanent storage device such as a hard drive, solid-state drive or USB drive (data at rest).
+
+Transmission refers to data traveling between information systems (data in transit).
+
+Awareness, training and education are the measures put in place by an organization to ensure that users are knowledgeable about potential security threats and the actions they can take to protect information systems.
+
+Technology refers to the software- and hardware-based solutions designed to protect information systems such as firewalls, which continuously monitor your network in search of possible malicious incidents.
+
+Policy and procedure refers to the administrative controls that provide a foundation for how an organization implements information assurance, such as incident response plans and best practice guidelines.
+
+That’s right! You know exactly what to look out for and have earned yourself some defender points — well done!
+
+Closer inspection reveals:
+
+that the sender's email domain is spelled incorrectly
+that the link URL is not pointing to @Apollo's website
+poor language, spelling and grammar
+low quality, pixelated graphics
+Phishing emails can be hard to detect. For example, they will often address you by name to appear legitimate, but hackers can easily find this information on the Internet. So, it’s important to stay alert and think before you click.
+
+They are often categorized as white hat, gray hat or black hat attackers.
